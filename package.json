@@ -1,6 +1,6 @@
 {
   
-  "homepage": "https://salmanpoomonmlp.github.io/salman",
+  
   
   "name": "m32",
   
@@ -40,10 +40,7 @@
   },
   
   "scripts": {
-  
-    
-
-  
+ 
     
   "start": "react-scripts start",
   
